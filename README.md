@@ -4,26 +4,36 @@
 
 This project automates testing of a Magento e-commerce website using a powerful combination of tools:
 
-### Selenium: A widely used web automation framework for interacting with web elements.
-Page Object Model (POM): A design pattern for organizing web page interactions into well-defined classes, promoting maintainability and reusability.
-Page Factory: An extension of POM in Selenium, simplifying element initialization and reducing code duplication.
-### TestNG: A flexible testing framework for creating and executing test cases with rich annotations and reporting features.
-### Maven: A project management tool for building, testing, and deploying Java applications, ensuring efficient dependency management.
-### Allure Reporting: A visual reporting framework that generates comprehensive HTML reports with detailed test execution information.
-Prerequisites
+### Selenium: 
+    A widely used web automation framework for interacting with web elements.
+### Page Object Model (POM): 
+    A design pattern for organizing web page interactions into well-defined classes, promoting maintainability and reusability.
+### Page Factory:
+    An extension of POM in Selenium, simplifying element initialization and reducing code duplication.
+### TestNG:    
+    A flexible testing framework for creating and executing test cases with rich annotations and reporting features.
+### Maven: 
+    A project management tool for building, testing, and deploying Java applications, ensuring efficient dependency management.
+### Allure Reporting: 
+    A visual reporting framework that generates comprehensive HTML reports with detailed test execution information.
+    
+## Prerequisites
 
-## Java Development Kit (JDK): Ensure you have a compatible JDK version installed (download from https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html).
-Maven: Download and install Maven from https://maven.apache.org/install.html.
-IDE: An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse is recommended for code development.
+### Java Development Kit (JDK): 
+    Ensure you have a compatible JDK version installed (download from https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html).
+### Maven: 
+    Download and install Maven from https://maven.apache.org/install.html.
+### IDE: 
+    An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse is recommended for code development.
 
 
 ## Project Setup
 
 ### 1. Create a Maven Project:
 
-Open a terminal or command prompt.
-
-Navigate to the desired directory where you want to create the project.
+    Open a terminal or command prompt.
+    
+    Navigate to the desired directory where you want to create the project.
 
 ### 2. Run the following command, replacing com.yourcompany with your preferred package name:
 
